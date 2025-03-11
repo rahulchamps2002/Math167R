@@ -1,0 +1,11 @@
+State,County,County FIPS Code,2010 Population,PM25 (mg/m3)
+California,Alameda County,6001,1510271,65
+California,Amador County,6005,38091,NA
+California,Butte County,6007,220000,92
+California,Calaveras County,6009,45578,97
+California,Colusa County,6011,21419,104
+California,Contra Costa County,6013,1049025,66
+California,Del Norte County,6015,28610,NA
+California,El Dorado County,6017,181058,NA
+California,Fresno County,6019,930450,124
+California,Glenn County,6021,28122,34
